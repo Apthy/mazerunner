@@ -1,2 +1,2 @@
 # mazerunner
-This is a remake of a uni project I made, I wanted to revisit it to brush up on my first principles and make it in python. It uses a simple MLP and QLearning to solve mazes. It is made with the PyTorch package
+This is a remake of a uni project I made, I wanted to revisit it to brush up on my first principles and make it in python. It uses a simple MLP and QLearning to solve mazes. It is made with PyTorch with the goal to be able to run it on a RPI and get some more servos to make it solve a real paper printout of the maze. I already have the base code using OpenCV to centre the camera to the maze using servos, just gotta finish this and then connect the two.
